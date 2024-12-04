@@ -1,0 +1,21 @@
+{
+	"info": {
+		"id": "en.hipertoon",
+		"lang": "en",
+		"name": "Hipertoon",
+		"version": 1,
+		"urls": [
+			"https://hipertoon.com",
+			
+		],
+		"nsfw": 2
+	},
+	"listings": [
+		{
+			"name": "Trending"
+		},
+		{
+			"name": "Popular"
+		}
+	]
+}
